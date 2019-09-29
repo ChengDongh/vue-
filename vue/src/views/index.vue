@@ -1,6 +1,8 @@
 <template>
   <div class="content">
+
     <Left></Left>
+
     <Right></Right>
   </div>
 </template>
