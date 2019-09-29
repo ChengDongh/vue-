@@ -2,7 +2,7 @@
   <div class="content">
 
     <Left></Left>
-
+    <div>999</div>
     <Right></Right>
   </div>
 </template>
